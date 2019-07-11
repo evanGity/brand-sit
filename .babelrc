@@ -1,0 +1,16 @@
+{
+  "presets": ["es2015", ["env", {
+      "modules": false,
+      "targets": {
+        "node": "current"
+      }
+    }], "stage-2"],
+  "plugins": ["transform-runtime", "transform-vue-jsx"],
+	"env": {
+    "test": {
+      "presets": ["env", "stage-2"]
+    }
+  },
+	"comments" : false
+
+}

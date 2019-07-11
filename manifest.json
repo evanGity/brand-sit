@@ -1,0 +1,17 @@
+{
+  "name": "Miroco",
+  "short_name": "Miroco",
+  "icons": [{
+      "src": "/public/128x128_PNG.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }, {
+      "src": "/public/256x256_PNG.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "background_color": "#00416f",
+  "display": "standalone",
+  "theme_color": "#f60"
+}

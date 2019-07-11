@@ -1,0 +1,550 @@
+<!-- <urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.mirocohome.com</loc>
+		<changefreq>hourly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/support
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/warranty
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/influencer
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/salesPolicy
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/about
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/termsCondition
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/privacyPolicy
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.3</priority>
+	</url>
+
+	<url>
+		<loc>
+		   https://www.mirocohome.com/login
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/search</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+  </url>
+  <url>
+		<loc>https://www.mirocohome.com/search?keywords=dash</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+  </url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/forgot
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/register
+		</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/dash
+		</loc>
+		<changefreq>hourly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/category/Audio-c-2.html
+		</loc>
+		<changefreq>hourly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>
+		   https://www.mirocohome.com/category/Dash%20Cam-c-18.html
+		</loc>
+		<changefreq>hourly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/mirocohome Voom 20 Bluetooth Speakers-p-1.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/mirocohome Voom 21 Wireless Bluetooth Speakers-p-3.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Flex Wired Earphones-p-5.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic MOOV 11 Wired Earphones-p-6.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Baby Night Light-p-7.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-DL29 iteknic Table Light with Traditional Bulb Design-p-9.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Cordless Oral Irrigator -p-11.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Car Phone Mount VA-SH024-p-12.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/True Wireless Bluetooth Earbuds with Charging Case-p-13.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Mechanical Gaming Keyboard -p-22.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-CD008 Dash Cam-p-35.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-MS001 2 in 1 Phone Lens-p-36.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic mini Dehumidifier-p-37.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Chroma Gaming Mouse-p-38.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Metal Plate Mount-p-39.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-AD008 iteknic Car Diffuser-p-40.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Gaming In-Ear Earphones with 3D Surround Sound-p-41.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Double Driver In-Ear Headphones-p-42.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Digital Kitchen Scale-p-44.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-AD007 iteknic 500mL Diffuser-p-45.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-AD009 iteknic 210mL Diffuser-p-46.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-AD010 iteknic 270mL Diffuser-p-47.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-EB003 Hand Blender-p-48.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-EB005 Electric Kettle -p-49.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Counter Top Oral Irrigator-p-50.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Milk Frother Electric Liquid Heater-p-51.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-EB015 Electric Kettle-p-52.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Sports Water Bottle 17oz 500ml-p-53.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Travel Mug with Two Cups-p-54.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic VOOM 22 Wireless Speaker-p-56.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic MOOV 28 Wireless Sports Earphones-p-57.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-DL31 Dimmable LED Floor Lamp-p-58.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-CL002 Baby Night Light-p-59.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic iteknic VOOM 23 IPX6 Waterproof 24 Hours Loud Bluetooth Speakers-p-67.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Space-Saving Cool Mist Humidifier-p-68.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Top Fill Cool Mist Humidifier-p-69.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Motion Sensor Light-p-70.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Motion Sensor Light-p-71.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Car Phone Mount VA-SH026-p-72.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Car Mount VA-SH022-p-73.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-DL28 LED floor lamp-p-74.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-AD011 iteknic Portable 30 mL Aroma Diffuser-p-75.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-AD015 iteknic Japanese Zen Design 90 mL Aroma Diffuser-p-76.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Bike Phone Mount VA-SH025-p-77.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Magnetic Headphones-p-78.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Phone Holder for Bike VA-SH007-p-82.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Cool Mist Humidifier with Remote Control -p-90.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Magnetic Phone Holder for Car CD Slot VA-SH003-p-91.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Magnetic Phone Holder for Car VA-SH005-p-92.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic VOOM 22 True Wireless Speakers-p-93.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Magnetic Bicycle Phone Holder VA-SH014-p-94.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Countertop Blender with 68oz Jar and 20oz Personal Blender-p-95.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Windshield Long Arm Car Phone Mount VA-SH013-p-96.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Voom 24 Loud IPX5 Waterproof 24 Hours Bluetooth Speakers( Pulsating Bass )-p-97.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic USB C Hub with HDMI Output-p-98.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 200ml Cordless Water Dental Flosser-p-99.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 700ml Dehumidifier-p-100.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Sous Vide Precision Cooker-p-101.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Warm and Cool Mist Humidifier with Humidity Monitor,Humidifier-p-104.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Dash Cam-p-105.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic LED Bedside Lamp with 7 Colors-p-107.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic USB C Hub with Ethernet Port-p-108.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic All-in-one Type C Hub -p-109.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Laptop Stand-p-110.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Adjustable Laptop Stand-p-111.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/VA-AD014 iteknic 200mL Essential Oil Diffuser for Kids-p-112.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Magnetic Car Phone Mount VA-SH012-p-113.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Phone Holder for Car Air Vent VA-SH023-p-114.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Baby Night light-p-115.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 5 L 170 oz Cool Mist Humidifier-p-116.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 2-in-1 Humidifier &amp; Essential Oil Diffuser-p-117.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 4L 147 oz Top Fill Humidifier-p-118.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 1.7 L 304 Stainless Steel Electric Kettle-p-149.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 1.7 L Electric Tea Kettle-p-150.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Detachable Milk Frother-p-151.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Air Purifier with 3-in-1 True HEPA Filter-p-152.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Air Purifier with 4-In-1 True HEPA Filter-p-153.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Sonic Rechargeable Electric Toothbrush-p-154.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic E-Touch Phone Holder for Car with USB Charging VA-SH008-p-155.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/Dash Cam VA-CD007 with Ambarella A12 Processor for 1440P 30fps  1080P 60fps Footage-p-156.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Natural Himalayan Salt Lamp-p-157.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Natural Himalayan Pink Salt Rock Lamp-p-158.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Magnetic Phone Holder for Car Dashboard-p-159.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Magnetic Phone Holder for Car Dashboard-p-160.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Blender for Shakes and Smoothies-p-161.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic 1.7L Temperature Control Electric Kettle-p-173.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Dash Cam 2K-p-174.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.mirocohome.com/product/iteknic Milk Frother with Double Wall-p-177.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+</urlset> -->
